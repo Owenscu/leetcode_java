@@ -1,4 +1,4 @@
-@[toc]
+[toc]
 # 数组
 ## 1299. 将每个元素替换为右侧最大元素
 [题目](https://leetcode-cn.com/problems/replace-elements-with-greatest-element-on-right-side/)
